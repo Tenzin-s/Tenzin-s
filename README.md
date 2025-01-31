@@ -1,7 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tenzin Sherpa
 =====================================================================================================================================
 
-Experienced React Native Developer with over 2 years of expertise in building cross-platform mobile applications for Android and iOS. Skilled in leveraging React Native’s component-based architecture to create efficient, scalable, and robust applications. Proficient in JavaScript, TypeScript, and integrating third-party libraries and APIs to enhance application functionality and user experience. Demonstrated ability to work collaboratively in agile environments, translating client requirements into technical specifications and delivering high-quality solutions. Adept at optimizing application performance and implementing intuitive UI/UX designs. Strong problem-solving skills and a passion for learning new technologies to keep up with industry trends.
+Hello! I'm a junior Angular developer passionate about building high-performance web applications and delivering seamless user experiences. I have a keen interest in frontend technologies, particularly Angular, and thrive in environments where I can apply my skills to real-world projects. From building dynamic user interfaces to integrating APIs, I am constantly refining my skills and learning new technologies to create scalable and maintainable solutions.
+
+I started my development journey by working on personal projects and quickly expanded into professional work, gaining experience in both frontend and backend. I enjoy tackling challenges, debugging issues, and collaborating with others to build polished, user-centric applications.
 
 * 🌍  I'm based in Syndey
 
