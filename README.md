@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tenzin Sherpa
 =====================================================================================================================================
 
-Hello! I'm a junior frontend developer passionate about building high-performance web applications and delivering seamless user experiences. I have a keen interest in frontend technologies, particularly Angular, and Next.js and thrive in environments where I can apply my skills to real-world projects. From building dynamic user interfaces to integrating APIs, I am constantly refining my skills and learning new technologies to create scalable and maintainable solutions.
+Hello! I'm a junior frontend developer passionate about building high-performance web applications and delivering seamless user experiences. I have a keen interest in frontend technologies, particularly Angular,and thrive in environments where I can apply my skills to real-world projects. From building dynamic user interfaces to integrating APIs, I am constantly refining my skills and learning new technologies to create scalable and maintainable solutions.
 
-I started my development journey by working on personal projects and quickly expanded into professional work, gaining experience in both frontend and backend. I enjoy tackling challenges, debugging issues, and collaborating with others to build polished, user-centric applications.
+I started my development journey by working on personal projects and quickly expanded into professional work, gaining experience in frontend. I enjoy tackling challenges, debugging issues, and collaborating with others to build polished, user-centric applications.
 
 * 🌍  I'm based in Syndey
 
